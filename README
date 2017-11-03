@@ -1,0 +1,24 @@
+To copy the skull stripped brain and registrations to the study-specific template to subject directories, run
+
+./00setupsubjects
+
+If skull strip is bad, you will need to remove the edited slice and the slices directory for that subject.
+
+rm -r slices
+make slices
+(then you edit the slice as before)
+Also remove the masks
+rm mask*
+make mask_to_1mm_bin.nii.gz
+
+
+
+If registrations are bad, you just need to remove anything that begins with "mask*"
+
+To regenerate masks
+
+make mask_to_1mm_bin.nii.gz
+
+Once everything is ok, create a new atlas:
+
+./01mergemasks

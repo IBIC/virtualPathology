@@ -1,0 +1,3 @@
+#/bin/bash
+fslmerge -t allmasks.nii.gz */mask_to_1mm_bin.nii.gz
+fslmaths allmasks.nii.gz -Tmean mask_atlas.nii.gz
