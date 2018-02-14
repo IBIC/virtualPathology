@@ -4,9 +4,10 @@ library("png")
 
 args=commandArgs(trailingOnly=TRUE)
 if (length(args)==0) {
-    stop("Usage: reassemble.R brainimage")
+    stop("Usage: reassemble.R brainimage roi")
 } else {
     brainfile=args[1]
+    roi=args[2]
 }
 
 brainnifti <- nifti.image.read(brainfile)
@@ -14,8 +15,8 @@ braindata <- brainnifti[,,]
                                         # zero
 braindata[,,] <- 0
 
-editedfile <- Sys.glob("slices/*edited.png")
-origfile <- gsub("_edited", "", editedfile)
+editedfile <- Sys.glob(paste("slices/*", roi, ".png", sep=""))
+origfile <- gsub(paste("_", roi, sep=""), "", editedfile)
 
 editedpng <- readPNG(editedfile)
 if (length(dim(editedpng)) > 2) {
@@ -46,6 +47,6 @@ nim <- nifti.image.copy.info(brainnifti)
 nim$dim <- dim(braindata)
 nifti.image.alloc.data(nim)
 nim[,,] <- braindata
-nifti.set.filenames(nim, "mask.nii.gz")
+nifti.set.filenames(nim, paste(roi, "_mask.nii.gz",sep=""))
 nifti.image.write(nim)
 
