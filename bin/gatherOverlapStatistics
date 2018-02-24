@@ -1,0 +1,32 @@
+#!/bin/bash
+# Gather overlap statistics
+# output format is
+# idnum roi overlap.orig best.y.orig overlap best.y bestangleoverlap.voxels bestangleoverlap.volume
+# run from the bin directory like this:
+# ./gatherOverlapStatistics
+cd /mnt/adrc/adrc-neuropath
+
+echo "idnum,roi,originaloverlap.voxels,best.y.orig,bestsliceoverlap.voxels,best.y,bestangleoverlap.voxels,bestangleoverlap.volume,goldstandard.volume"
+
+for subject in 1????? 4?????
+do
+    cd ${subject}
+    for roi in MSTG V1 IPL MFG
+    do
+
+	# best slice overlap
+	bestslice=$(Rscript ../bin/computeBestAPSlice.R ${roi}_mask.nii.gz reference/${roi}_reference.nii.gz)
+	# best angle overlap
+	tmpfile=$(mktemp)
+	fslmaths registered/${roi}_toref.nii.gz -mul reference/${roi}_reference.nii.gz -bin ${tmpfile}.nii.gz
+	bestangleoverlapvoxels=$(fslstats ${tmpfile}.nii.gz -V|awk '{print $1}')
+	bestangleoverlapvolume=$(fslstats ${tmpfile}.nii.gz -V|awk '{print $2}')	
+	# gold standard volume
+	goldstdvol=$(fslstats reference/${roi}_reference.nii.gz -V | awk '{print $2}')
+	rm -f ${tmpfile}.nii.gz
+	echo $subject "," $roi "," $bestslice "," $bestangleoverlapvoxels "," $bestangleoverlapvolume "," $goldstdvol
+    done
+    cd ..
+done
+
+		    
