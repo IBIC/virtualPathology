@@ -4,10 +4,12 @@ for s in $(cat adrc_subjects)
 do
   mkdir -p $s
   mkdir -p $s/xfm_dir
-  cp $PROJHOME/$s/mprage/T1_brain.nii.gz $s
-  cp $PROJHOME/$s/xfm_dir/T1_to_CT_1Warp.nii.gz $s/xfm_dir
-  cp $PROJHOME/$s/xfm_dir/T1_to_CT_1InverseWarp.nii.gz $s/xfm_dir
-  cp $PROJHOME/$s/xfm_dir/T1_to_CT_0GenericAffine.mat $s/xfm_dir
+   mkdir -p $s/rest
+#  cp $PROJHOME/$s/mprage/T1_brain.nii.gz $s
+#  cp $PROJHOME/$s/xfm_dir/T1_to_CT_1Warp.nii.gz $s/xfm_dir
+#  cp $PROJHOME/$s/xfm_dir/T1_to_CT_1InverseWarp.nii.gz $s/xfm_dir
+  #  cp $PROJHOME/$s/xfm_dir/T1_to_CT_0GenericAffine.mat $s/xfm_dir
+  cp $PROJHOME/$s/rest/rest_e00213_mefc_reoriented_toMNI.nii.gz $s/rest
 done
   
   

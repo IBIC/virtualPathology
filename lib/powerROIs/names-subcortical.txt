@@ -1,0 +1,264 @@
+-25,-98,-12 <b>Harvard-Oxford Subcortical Structural Atlas</b><br>54% Left Cerebral Cortex , 8% Left Cerebral White Matter
+27,-97,-13 <b>Harvard-Oxford Subcortical Structural Atlas</b><br>35% Right Cerebral Cortex , 1% Right Cerebral White Matter
+24,32,-18 <b>Harvard-Oxford Subcortical Structural Atlas</b><br>96% Right Cerebral Cortex , 4% Right Cerebral White Matter
+-56,-45,-24 <b>Harvard-Oxford Subcortical Structural Atlas</b><br>72% Left Cerebral Cortex
+8,41,-24 <b>Harvard-Oxford Subcortical Structural Atlas</b><br>83% Right Cerebral Cortex , 13% Right Cerebral White Matter
+-21,-22,-20 <b>Harvard-Oxford Subcortical Structural Atlas</b><br>39% Left Cerebral Cortex , 22% Left Hippocampus, 6% Left Cerebral White Matter
+17,-28,-17 <b>Harvard-Oxford Subcortical Structural Atlas</b><br>61% Right Cerebral Cortex , 2% Right Cerebral White Matter, 2% Brain-Stem
+-37,-29,-26 <b>Harvard-Oxford Subcortical Structural Atlas</b><br>73% Left Cerebral Cortex , 6% Left Cerebral White Matter
+65,-24,-19 <b>Harvard-Oxford Subcortical Structural Atlas</b><br>82% Right Cerebral Cortex , 13% Right Cerebral White Matter
+52,-34,-27 <b>Harvard-Oxford Subcortical Structural Atlas</b><br>46% Right Cerebral Cortex , 4% Right Cerebral White Matter
+55,-31,-17 <b>Harvard-Oxford Subcortical Structural Atlas</b><br>54% Right Cerebral White Matter, 45% Right Cerebral Cortex
+34,38,-12 <b>Harvard-Oxford Subcortical Structural Atlas</b><br>91% Right Cerebral Cortex , 8% Right Cerebral White Matter
+-7,-52,61 <b>Harvard-Oxford Subcortical Structural Atlas</b><br>63% Left Cerebral Cortex , 9% Left Cerebral White Matter
+-14,-18,40 <b>Harvard-Oxford Subcortical Structural Atlas</b><br>33% Left Cerebral White Matter, 32% Left Cerebral Cortex
+0,-15,47 <b>Harvard-Oxford Subcortical Structural Atlas</b><br>44% Left Cerebral Cortex , 21% Right Cerebral Cortex
+10,-2,45 <b>Harvard-Oxford Subcortical Structural Atlas</b><br>70% Right Cerebral Cortex , 28% Right Cerebral White Matter
+-7,-21,65 <b>Harvard-Oxford Subcortical Structural Atlas</b><br>32% Left Cerebral Cortex , 31% Left Cerebral White Matter
+-7,-33,72 <b>Harvard-Oxford Subcortical Structural Atlas</b><br>41% Left Cerebral Cortex , 22% Left Cerebral White Matter
+13,-33,75 <b>Harvard-Oxford Subcortical Structural Atlas</b><br>72% Right Cerebral Cortex , 22% Right Cerebral White Matter
+-54,-23,43 <b>Harvard-Oxford Subcortical Structural Atlas</b><br>58% Left Cerebral Cortex , 12% Left Cerebral White Matter
+29,-17,71 <b>Harvard-Oxford Subcortical Structural Atlas</b><br>62% Right Cerebral Cortex , 28% Right Cerebral White Matter
+10,-46,73 <b>Harvard-Oxford Subcortical Structural Atlas</b><br>68% Right Cerebral Cortex , 19% Right Cerebral White Matter
+-23,-30,72 <b>Harvard-Oxford Subcortical Structural Atlas</b><br>49% Left Cerebral Cortex , 8% Left Cerebral White Matter
+-40,-19,54 <b>Harvard-Oxford Subcortical Structural Atlas</b><br>58% Left Cerebral Cortex , 9% Left Cerebral White Matter
+29,-39,59 <b>Harvard-Oxford Subcortical Structural Atlas</b><br>69% Right Cerebral Cortex , 26% Right Cerebral White Matter
+50,-20,42 <b>Harvard-Oxford Subcortical Structural Atlas</b><br>62% Right Cerebral Cortex , 36% Right Cerebral White Matter
+-38,-27,69 <b>Harvard-Oxford Subcortical Structural Atlas</b><br>49% Left Cerebral Cortex , 6% Left Cerebral White Matter
+20,-29,60 <b>Harvard-Oxford Subcortical Structural Atlas</b><br>70% Right Cerebral Cortex , 28% Right Cerebral White Matter
+44,-8,57 <b>Harvard-Oxford Subcortical Structural Atlas</b><br>68% Right Cerebral Cortex , 29% Right Cerebral White Matter
+-29,-43,61 <b>Harvard-Oxford Subcortical Structural Atlas</b><br>42% Left Cerebral Cortex , 21% Left Cerebral White Matter
+10,-17,74 <b>Harvard-Oxford Subcortical Structural Atlas</b><br>53% Right Cerebral Cortex , 41% Right Cerebral White Matter
+22,-42,69 <b>Harvard-Oxford Subcortical Structural Atlas</b><br>76% Right Cerebral Cortex , 9% Right Cerebral White Matter
+-45,-32,47 <b>Harvard-Oxford Subcortical Structural Atlas</b><br>51% Left Cerebral Cortex , 15% Left Cerebral White Matter
+-21,-31,61 <b>Harvard-Oxford Subcortical Structural Atlas</b><br>49% Left Cerebral Cortex , 20% Left Cerebral White Matter
+-13,-17,75 <b>Harvard-Oxford Subcortical Structural Atlas</b><br>38% Left Cerebral Cortex , 26% Left Cerebral White Matter
+42,-20,55 <b>Harvard-Oxford Subcortical Structural Atlas</b><br>73% Right Cerebral Cortex , 23% Right Cerebral White Matter
+-38,-15,69 <b>Harvard-Oxford Subcortical Structural Atlas</b><br>50% Left Cerebral Cortex , 2% Left Cerebral White Matter
+-16,-46,73 <b>Harvard-Oxford Subcortical Structural Atlas</b><br>50% Left Cerebral Cortex , 8% Left Cerebral White Matter
+2,-28,60 <b>Harvard-Oxford Subcortical Structural Atlas</b><br>62% Right Cerebral Cortex , 2% Right Cerebral White Matter
+3,-17,58 <b>Harvard-Oxford Subcortical Structural Atlas</b><br>82% Right Cerebral Cortex , 13% Right Cerebral White Matter
+38,-17,45 <b>Harvard-Oxford Subcortical Structural Atlas</b><br>80% Right Cerebral Cortex , 19% Right Cerebral White Matter
+-49,-11,35 <b>Harvard-Oxford Subcortical Structural Atlas</b><br>60% Left Cerebral Cortex , 11% Left Cerebral White Matter
+36,-9,14 <b>Harvard-Oxford Subcortical Structural Atlas</b><br>94% Right Cerebral Cortex , 5% Right Cerebral White Matter
+51,-6,32 <b>Harvard-Oxford Subcortical Structural Atlas</b><br>60% Right Cerebral Cortex , 38% Right Cerebral White Matter
+-53,-10,24 <b>Harvard-Oxford Subcortical Structural Atlas</b><br>42% Left Cerebral Cortex , 22% Left Cerebral White Matter
+66,-8,25 <b>Harvard-Oxford Subcortical Structural Atlas</b><br>82% Right Cerebral Cortex , 3% Right Cerebral White Matter
+-3,2,53 <b>Harvard-Oxford Subcortical Structural Atlas</b><br>63% Left Cerebral Cortex
+54,-28,34 <b>Harvard-Oxford Subcortical Structural Atlas</b><br>55% Right Cerebral White Matter, 43% Right Cerebral Cortex
+19,-8,64 <b>Harvard-Oxford Subcortical Structural Atlas</b><br>63% Right Cerebral Cortex , 35% Right Cerebral White Matter
+-16,-5,71 <b>Harvard-Oxford Subcortical Structural Atlas</b><br>51% Left Cerebral Cortex , 14% Left Cerebral White Matter
+-10,-2,42 <b>Harvard-Oxford Subcortical Structural Atlas</b><br>42% Left Cerebral Cortex , 26% Left Cerebral White Matter
+37,1,-4 <b>Harvard-Oxford Subcortical Structural Atlas</b><br>79% Right Cerebral Cortex , 20% Right Cerebral White Matter
+13,-1,70 <b>Harvard-Oxford Subcortical Structural Atlas</b><br>71% Right Cerebral Cortex , 24% Right Cerebral White Matter
+7,8,51 <b>Harvard-Oxford Subcortical Structural Atlas</b><br>69% Right Cerebral Cortex , 30% Right Cerebral White Matter
+-45,0,9 <b>Harvard-Oxford Subcortical Structural Atlas</b><br>74% Left Cerebral Cortex , 1% Left Cerebral White Matter
+49,8,-1 <b>Harvard-Oxford Subcortical Structural Atlas</b><br>86% Right Cerebral Cortex , 4% Right Cerebral White Matter
+-34,3,4 <b>Harvard-Oxford Subcortical Structural Atlas</b><br>31% Left Cerebral Cortex , 27% Left Cerebral White Matter, 1% Left Putamen
+-51,8,-2 <b>Harvard-Oxford Subcortical Structural Atlas</b><br>68% Left Cerebral Cortex , 2% Left Cerebral White Matter
+-5,18,34 <b>Harvard-Oxford Subcortical Structural Atlas</b><br>73% Left Cerebral Cortex , 1% Left Cerebral White Matter
+36,10,1 <b>Harvard-Oxford Subcortical Structural Atlas</b><br>75% Right Cerebral Cortex , 23% Right Cerebral White Matter
+32,-26,13 <b>Harvard-Oxford Subcortical Structural Atlas</b><br>52% Right Cerebral Cortex , 46% Right Cerebral White Matter
+65,-33,20 <b>Harvard-Oxford Subcortical Structural Atlas</b><br>87% Right Cerebral Cortex , 5% Right Cerebral White Matter
+58,-16,7 <b>Harvard-Oxford Subcortical Structural Atlas</b><br>70% Right Cerebral Cortex , 29% Right Cerebral White Matter
+-38,-33,17 <b>Harvard-Oxford Subcortical Structural Atlas</b><br>79% Left Cerebral Cortex , 6% Left Cerebral White Matter
+-60,-25,14 <b>Harvard-Oxford Subcortical Structural Atlas</b><br>75% Left Cerebral Cortex , 3% Left Cerebral White Matter
+-49,-26,5 <b>Harvard-Oxford Subcortical Structural Atlas</b><br>41% Left Cerebral Cortex , 20% Left Cerebral White Matter
+43,-23,20 <b>Harvard-Oxford Subcortical Structural Atlas</b><br>80% Right Cerebral Cortex , 18% Right Cerebral White Matter
+-50,-34,26 <b>Harvard-Oxford Subcortical Structural Atlas</b><br>43% Left Cerebral Cortex , 24% Left Cerebral White Matter
+-53,-22,23 <b>Harvard-Oxford Subcortical Structural Atlas</b><br>42% Left Cerebral Cortex , 27% Left Cerebral White Matter
+-55,-9,12 <b>Harvard-Oxford Subcortical Structural Atlas</b><br>65% Left Cerebral Cortex , 8% Left Cerebral White Matter
+56,-5,13 <b>Harvard-Oxford Subcortical Structural Atlas</b><br>60% Right Cerebral Cortex , 38% Right Cerebral White Matter
+59,-17,29 <b>Harvard-Oxford Subcortical Structural Atlas</b><br>78% Right Cerebral Cortex , 20% Right Cerebral White Matter
+-30,-27,12 <b>Harvard-Oxford Subcortical Structural Atlas</b><br>39% Left Cerebral White Matter, 21% Left Cerebral Cortex
+-41,-75,26 <b>Harvard-Oxford Subcortical Structural Atlas</b><br>40% Left Cerebral Cortex , 22% Left Cerebral White Matter
+6,67,-4 <b>Harvard-Oxford Subcortical Structural Atlas</b><br>74% Right Cerebral Cortex , 22% Right Cerebral White Matter
+8,48,-15 <b>Harvard-Oxford Subcortical Structural Atlas</b><br>66% Right Cerebral White Matter, 33% Right Cerebral Cortex
+-13,-40,1 <b>Harvard-Oxford Subcortical Structural Atlas</b><br>26% Left Hippocampus, 25% Left Cerebral Cortex , 7% Left Cerebral White Matter, 4% Left Thalamus
+-18,63,-9 <b>Harvard-Oxford Subcortical Structural Atlas</b><br>47% Left Cerebral Cortex , 17% Left Cerebral White Matter
+-46,-61,21 <b>Harvard-Oxford Subcortical Structural Atlas</b><br>53% Left Cerebral Cortex , 18% Left Cerebral White Matter
+43,-72,28 <b>Harvard-Oxford Subcortical Structural Atlas</b><br>66% Right Cerebral Cortex , 33% Right Cerebral White Matter
+-44,12,-34 <b>Harvard-Oxford Subcortical Structural Atlas</b><br>60% Left Cerebral Cortex , 12% Left Cerebral White Matter
+46,16,-30 <b>Harvard-Oxford Subcortical Structural Atlas</b><br>78% Right Cerebral Cortex , 18% Right Cerebral White Matter
+-68,-23,-16 <b>Harvard-Oxford Subcortical Structural Atlas</b><br>59% Left Cerebral Cortex
+-58,-26,-15 <b>Harvard-Oxford Subcortical Structural Atlas</b><br>43% Left Cerebral Cortex , 20% Left Cerebral White Matter
+27,16,-17 <b>Harvard-Oxford Subcortical Structural Atlas</b><br>93% Right Cerebral Cortex , 4% Right Cerebral White Matter
+-44,-65,35 <b>Harvard-Oxford Subcortical Structural Atlas</b><br>53% Left Cerebral Cortex , 13% Left Cerebral White Matter
+-39,-75,44 <b>Harvard-Oxford Subcortical Structural Atlas</b><br>60% Left Cerebral Cortex , 4% Left Cerebral White Matter
+-7,-55,27 <b>Harvard-Oxford Subcortical Structural Atlas</b><br>63% Left Cerebral Cortex , 12% Left Cerebral White Matter
+6,-59,35 <b>Harvard-Oxford Subcortical Structural Atlas</b><br>58% Right Cerebral Cortex , 41% Right Cerebral White Matter
+-11,-56,16 <b>Harvard-Oxford Subcortical Structural Atlas</b><br>42% Left Cerebral Cortex , 31% Left Cerebral White Matter
+-3,-49,13 <b>Harvard-Oxford Subcortical Structural Atlas</b><br>50% Left Cerebral Cortex , 1% Right Cerebral Cortex
+8,-48,31 <b>Harvard-Oxford Subcortical Structural Atlas</b><br>59% Right Cerebral Cortex , 40% Right Cerebral White Matter
+15,-63,26 <b>Harvard-Oxford Subcortical Structural Atlas</b><br>80% Right Cerebral Cortex , 18% Right Cerebral White Matter
+-2,-37,44 <b>Harvard-Oxford Subcortical Structural Atlas</b><br>78% Left Cerebral Cortex , 1% Right Cerebral Cortex
+11,-54,17 <b>Harvard-Oxford Subcortical Structural Atlas</b><br>60% Right Cerebral Cortex , 38% Right Cerebral White Matter
+52,-59,36 <b>Harvard-Oxford Subcortical Structural Atlas</b><br>75% Right Cerebral Cortex , 23% Right Cerebral White Matter
+23,33,48 <b>Harvard-Oxford Subcortical Structural Atlas</b><br>81% Right Cerebral Cortex , 16% Right Cerebral White Matter
+-10,39,52 <b>Harvard-Oxford Subcortical Structural Atlas</b><br>62% Left Cerebral Cortex , 4% Left Cerebral White Matter
+-16,29,53 <b>Harvard-Oxford Subcortical Structural Atlas</b><br>35% Left Cerebral Cortex , 31% Left Cerebral White Matter
+-35,20,51 <b>Harvard-Oxford Subcortical Structural Atlas</b><br>54% Left Cerebral Cortex , 13% Left Cerebral White Matter
+22,39,39 <b>Harvard-Oxford Subcortical Structural Atlas</b><br>72% Right Cerebral Cortex , 26% Right Cerebral White Matter
+13,55,38 <b>Harvard-Oxford Subcortical Structural Atlas</b><br>82% Right Cerebral Cortex , 3% Right Cerebral White Matter
+-10,55,39 <b>Harvard-Oxford Subcortical Structural Atlas</b><br>58% Left Cerebral Cortex , 2% Left Cerebral White Matter
+-20,45,39 <b>Harvard-Oxford Subcortical Structural Atlas</b><br>66% Left Cerebral Cortex , 5% Left Cerebral White Matter
+6,54,16 <b>Harvard-Oxford Subcortical Structural Atlas</b><br>85% Right Cerebral Cortex , 14% Right Cerebral White Matter
+6,64,22 <b>Harvard-Oxford Subcortical Structural Atlas</b><br>84% Right Cerebral Cortex , 9% Right Cerebral White Matter
+-7,51,-1 <b>Harvard-Oxford Subcortical Structural Atlas</b><br>78% Left Cerebral Cortex , 4% Left Cerebral White Matter
+9,54,3 <b>Harvard-Oxford Subcortical Structural Atlas</b><br>74% Right Cerebral Cortex , 24% Right Cerebral White Matter
+-3,44,-9 <b>Harvard-Oxford Subcortical Structural Atlas</b><br>74% Left Cerebral Cortex , 10% Right Cerebral Cortex
+8,42,-5 <b>Harvard-Oxford Subcortical Structural Atlas</b><br>83% Right Cerebral Cortex , 15% Right Cerebral White Matter
+-11,45,8 <b>Harvard-Oxford Subcortical Structural Atlas</b><br>51% Left Cerebral Cortex , 18% Left Cerebral White Matter
+-2,38,36 <b>Harvard-Oxford Subcortical Structural Atlas</b><br>64% Left Cerebral Cortex , 2% Right Cerebral Cortex
+-3,42,16 <b>Harvard-Oxford Subcortical Structural Atlas</b><br>80% Left Cerebral Cortex , 2% Right Cerebral Cortex
+-20,64,19 <b>Harvard-Oxford Subcortical Structural Atlas</b><br>67% Left Cerebral Cortex , 2% Left Cerebral White Matter
+-8,48,23 <b>Harvard-Oxford Subcortical Structural Atlas</b><br>51% Left Cerebral Cortex , 15% Left Cerebral White Matter
+65,-12,-19 <b>Harvard-Oxford Subcortical Structural Atlas</b><br>83% Right Cerebral Cortex , 8% Right Cerebral White Matter
+-56,-13,-10 <b>Harvard-Oxford Subcortical Structural Atlas</b><br>72% Left Cerebral Cortex , 7% Left Cerebral White Matter
+-58,-30,-4 <b>Harvard-Oxford Subcortical Structural Atlas</b><br>75% Left Cerebral Cortex , 4% Left Cerebral White Matter
+65,-31,-9 <b>Harvard-Oxford Subcortical Structural Atlas</b><br>73% Right Cerebral Cortex , 25% Right Cerebral White Matter
+-68,-41,-5 <b>Harvard-Oxford Subcortical Structural Atlas</b><br>61% Left Cerebral Cortex
+13,30,59 <b>Harvard-Oxford Subcortical Structural Atlas</b><br>82% Right Cerebral Cortex , 3% Right Cerebral White Matter
+12,36,20 <b>Harvard-Oxford Subcortical Structural Atlas</b><br>66% Right Cerebral Cortex , 33% Right Cerebral White Matter
+52,-2,-16 <b>Harvard-Oxford Subcortical Structural Atlas</b><br>74% Right Cerebral Cortex , 25% Right Cerebral White Matter
+-26,-40,-8 <b>Harvard-Oxford Subcortical Structural Atlas</b><br>26% Left Cerebral Cortex , 24% Left Cerebral White Matter, 14% Left Hippocampus
+27,-37,-13 <b>Harvard-Oxford Subcortical Structural Atlas</b><br>94% Right Cerebral Cortex , 6% Right Cerebral White Matter
+-34,-38,-16 <b>Harvard-Oxford Subcortical Structural Atlas</b><br>51% Left Cerebral Cortex , 17% Left Cerebral White Matter
+28,-77,-32 <b>Harvard-Oxford Subcortical Structural Atlas</b><br>No label found!
+52,7,-30 <b>Harvard-Oxford Subcortical Structural Atlas</b><br>54% Right Cerebral Cortex , 44% Right Cerebral White Matter
+-53,3,-27 <b>Harvard-Oxford Subcortical Structural Atlas</b><br>44% Left Cerebral Cortex , 18% Left Cerebral White Matter
+47,-50,29 <b>Harvard-Oxford Subcortical Structural Atlas</b><br>62% Right Cerebral Cortex , 37% Right Cerebral White Matter
+-49,-42,1 <b>Harvard-Oxford Subcortical Structural Atlas</b><br>38% Left Cerebral White Matter, 33% Left Cerebral Cortex
+-31,19,-19 <b>Harvard-Oxford Subcortical Structural Atlas</b><br>68% Left Cerebral Cortex , 4% Left Cerebral White Matter
+-2,-35,31 <b>Harvard-Oxford Subcortical Structural Atlas</b><br>75% Left Cerebral Cortex
+-7,-71,42 <b>Harvard-Oxford Subcortical Structural Atlas</b><br>55% Left Cerebral Cortex , 8% Left Cerebral White Matter
+11,-66,42 <b>Harvard-Oxford Subcortical Structural Atlas</b><br>54% Right Cerebral Cortex , 42% Right Cerebral White Matter
+4,-48,51 <b>Harvard-Oxford Subcortical Structural Atlas</b><br>91% Right Cerebral Cortex , 4% Right Cerebral White Matter
+-46,31,-13 <b>Harvard-Oxford Subcortical Structural Atlas</b><br>73% Left Cerebral Cortex
+-10,11,67 <b>Harvard-Oxford Subcortical Structural Atlas</b><br>47% Left Cerebral Cortex , 17% Left Cerebral White Matter
+49,35,-12 <b>Harvard-Oxford Subcortical Structural Atlas</b><br>92% Right Cerebral Cortex , 3% Right Cerebral White Matter
+8,-91,-7 <b>Harvard-Oxford Subcortical Structural Atlas</b><br>68% Right Cerebral Cortex , 9% Right Cerebral White Matter, 1% Left Cerebral Cortex
+17,-91,-14 <b>Harvard-Oxford Subcortical Structural Atlas</b><br>58% Right Cerebral Cortex , 19% Right Cerebral White Matter
+-12,-95,-13 <b>Harvard-Oxford Subcortical Structural Atlas</b><br>54% Left Cerebral Cortex , 4% Left Cerebral White Matter
+18,-47,-10 <b>Harvard-Oxford Subcortical Structural Atlas</b><br>86% Right Cerebral Cortex , 8% Right Cerebral White Matter
+40,-72,14 <b>Harvard-Oxford Subcortical Structural Atlas</b><br>55% Right Cerebral White Matter, 43% Right Cerebral Cortex
+8,-72,11 <b>Harvard-Oxford Subcortical Structural Atlas</b><br>78% Right Cerebral Cortex , 19% Right Cerebral White Matter
+-8,-81,7 <b>Harvard-Oxford Subcortical Structural Atlas</b><br>57% Left Cerebral Cortex , 13% Left Cerebral White Matter
+-28,-79,19 <b>Harvard-Oxford Subcortical Structural Atlas</b><br>43% Left Cerebral Cortex , 25% Left Cerebral White Matter
+20,-66,2 <b>Harvard-Oxford Subcortical Structural Atlas</b><br>61% Right Cerebral White Matter, 38% Right Cerebral Cortex
+-24,-91,19 <b>Harvard-Oxford Subcortical Structural Atlas</b><br>45% Left Cerebral Cortex , 19% Left Cerebral White Matter
+27,-59,-9 <b>Harvard-Oxford Subcortical Structural Atlas</b><br>61% Right Cerebral Cortex , 38% Right Cerebral White Matter
+-15,-72,-8 <b>Harvard-Oxford Subcortical Structural Atlas</b><br>53% Left Cerebral Cortex , 14% Left Cerebral White Matter
+-18,-68,5 <b>Harvard-Oxford Subcortical Structural Atlas</b><br>42% Left Cerebral Cortex , 23% Left Cerebral White Matter
+43,-78,-12 <b>Harvard-Oxford Subcortical Structural Atlas</b><br>68% Right Cerebral Cortex , 27% Right Cerebral White Matter
+-47,-76,-10 <b>Harvard-Oxford Subcortical Structural Atlas</b><br>63% Left Cerebral Cortex , 6% Left Cerebral White Matter
+-14,-91,31 <b>Harvard-Oxford Subcortical Structural Atlas</b><br>49% Left Cerebral Cortex , 11% Left Cerebral White Matter
+15,-87,37 <b>Harvard-Oxford Subcortical Structural Atlas</b><br>70% Right Cerebral Cortex , 18% Right Cerebral White Matter
+29,-77,25 <b>Harvard-Oxford Subcortical Structural Atlas</b><br>68% Right Cerebral Cortex , 30% Right Cerebral White Matter
+20,-86,-2 <b>Harvard-Oxford Subcortical Structural Atlas</b><br>57% Right Cerebral White Matter, 42% Right Cerebral Cortex
+15,-77,31 <b>Harvard-Oxford Subcortical Structural Atlas</b><br>61% Right Cerebral Cortex , 37% Right Cerebral White Matter
+-16,-52,-1 <b>Harvard-Oxford Subcortical Structural Atlas</b><br>55% Left Cerebral Cortex , 10% Left Cerebral White Matter
+42,-66,-8 <b>Harvard-Oxford Subcortical Structural Atlas</b><br>53% Right Cerebral Cortex , 46% Right Cerebral White Matter
+24,-87,24 <b>Harvard-Oxford Subcortical Structural Atlas</b><br>60% Right Cerebral Cortex , 37% Right Cerebral White Matter
+6,-72,24 <b>Harvard-Oxford Subcortical Structural Atlas</b><br>71% Right Cerebral Cortex , 27% Right Cerebral White Matter
+-42,-74,0 <b>Harvard-Oxford Subcortical Structural Atlas</b><br>50% Left Cerebral Cortex , 18% Left Cerebral White Matter
+26,-79,-16 <b>Harvard-Oxford Subcortical Structural Atlas</b><br>75% Right Cerebral Cortex , 7% Right Cerebral White Matter
+-16,-77,34 <b>Harvard-Oxford Subcortical Structural Atlas</b><br>46% Left Cerebral Cortex , 20% Left Cerebral White Matter
+-3,-81,21 <b>Harvard-Oxford Subcortical Structural Atlas</b><br>61% Left Cerebral Cortex , 8% Left Cerebral White Matter, 2% Right Cerebral Cortex
+-40,-88,-6 <b>Harvard-Oxford Subcortical Structural Atlas</b><br>59% Left Cerebral Cortex , 6% Left Cerebral White Matter
+37,-84,13 <b>Harvard-Oxford Subcortical Structural Atlas</b><br>67% Right Cerebral Cortex , 30% Right Cerebral White Matter
+6,-81,6 <b>Harvard-Oxford Subcortical Structural Atlas</b><br>80% Right Cerebral Cortex , 17% Right Cerebral White Matter
+-26,-90,3 <b>Harvard-Oxford Subcortical Structural Atlas</b><br>31% Left Cerebral Cortex , 29% Left Cerebral White Matter
+-33,-79,-13 <b>Harvard-Oxford Subcortical Structural Atlas</b><br>52% Left Cerebral Cortex , 14% Left Cerebral White Matter
+37,-81,1 <b>Harvard-Oxford Subcortical Structural Atlas</b><br>53% Right Cerebral Cortex , 45% Right Cerebral White Matter
+-44,2,46 <b>Harvard-Oxford Subcortical Structural Atlas</b><br>63% Left Cerebral Cortex , 9% Left Cerebral White Matter
+48,25,27 <b>Harvard-Oxford Subcortical Structural Atlas</b><br>83% Right Cerebral Cortex , 16% Right Cerebral White Matter
+-47,11,23 <b>Harvard-Oxford Subcortical Structural Atlas</b><br>47% Left Cerebral Cortex , 23% Left Cerebral White Matter
+-53,-49,43 <b>Harvard-Oxford Subcortical Structural Atlas</b><br>51% Left Cerebral Cortex , 14% Left Cerebral White Matter
+-23,11,64 <b>Harvard-Oxford Subcortical Structural Atlas</b><br>53% Left Cerebral Cortex , 7% Left Cerebral White Matter
+58,-53,-14 <b>Harvard-Oxford Subcortical Structural Atlas</b><br>85% Right Cerebral Cortex , 13% Right Cerebral White Matter
+24,45,-15 <b>Harvard-Oxford Subcortical Structural Atlas</b><br>91% Right Cerebral Cortex , 7% Right Cerebral White Matter
+34,54,-13 <b>Harvard-Oxford Subcortical Structural Atlas</b><br>77% Right Cerebral Cortex , 18% Right Cerebral White Matter
+-21,41,-20 <b>Harvard-Oxford Subcortical Structural Atlas</b><br>64% Left Cerebral Cortex , 2% Left Cerebral White Matter
+-18,-76,-24 <b>Harvard-Oxford Subcortical Structural Atlas</b><br>No label found!
+17,-80,-34 <b>Harvard-Oxford Subcortical Structural Atlas</b><br>No label found!
+35,-67,-34 <b>Harvard-Oxford Subcortical Structural Atlas</b><br>No label found!
+47,10,33 <b>Harvard-Oxford Subcortical Structural Atlas</b><br>81% Right Cerebral Cortex , 17% Right Cerebral White Matter
+-41,6,33 <b>Harvard-Oxford Subcortical Structural Atlas</b><br>65% Left Cerebral Cortex , 8% Left Cerebral White Matter
+-42,38,21 <b>Harvard-Oxford Subcortical Structural Atlas</b><br>62% Left Cerebral Cortex , 13% Left Cerebral White Matter
+38,43,15 <b>Harvard-Oxford Subcortical Structural Atlas</b><br>59% Right Cerebral Cortex , 40% Right Cerebral White Matter
+49,-42,45 <b>Harvard-Oxford Subcortical Structural Atlas</b><br>61% Right Cerebral Cortex , 37% Right Cerebral White Matter
+-28,-58,48 <b>Harvard-Oxford Subcortical Structural Atlas</b><br>53% Left Cerebral Cortex , 13% Left Cerebral White Matter
+44,-53,47 <b>Harvard-Oxford Subcortical Structural Atlas</b><br>58% Right Cerebral Cortex , 37% Right Cerebral White Matter
+32,14,56 <b>Harvard-Oxford Subcortical Structural Atlas</b><br>60% Right Cerebral Cortex , 36% Right Cerebral White Matter
+37,-65,40 <b>Harvard-Oxford Subcortical Structural Atlas</b><br>51% Right Cerebral White Matter, 48% Right Cerebral Cortex
+-42,-55,45 <b>Harvard-Oxford Subcortical Structural Atlas</b><br>39% Left Cerebral Cortex , 23% Left Cerebral White Matter
+40,18,40 <b>Harvard-Oxford Subcortical Structural Atlas</b><br>62% Right Cerebral Cortex , 37% Right Cerebral White Matter
+-34,55,4 <b>Harvard-Oxford Subcortical Structural Atlas</b><br>55% Left Cerebral Cortex , 10% Left Cerebral White Matter
+-42,45,-2 <b>Harvard-Oxford Subcortical Structural Atlas</b><br>49% Left Cerebral Cortex , 17% Left Cerebral White Matter
+33,-53,44 <b>Harvard-Oxford Subcortical Structural Atlas</b><br>58% Right Cerebral Cortex , 41% Right Cerebral White Matter
+43,49,-2 <b>Harvard-Oxford Subcortical Structural Atlas</b><br>85% Right Cerebral Cortex , 14% Right Cerebral White Matter
+-42,25,30 <b>Harvard-Oxford Subcortical Structural Atlas</b><br>42% Left Cerebral Cortex , 28% Left Cerebral White Matter
+-3,26,44 <b>Harvard-Oxford Subcortical Structural Atlas</b><br>65% Left Cerebral Cortex , 1% Right Cerebral Cortex
+11,-39,50 <b>Harvard-Oxford Subcortical Structural Atlas</b><br>76% Right Cerebral Cortex , 20% Right Cerebral White Matter
+55,-45,37 <b>Harvard-Oxford Subcortical Structural Atlas</b><br>73% Right Cerebral Cortex , 26% Right Cerebral White Matter
+42,0,47 <b>Harvard-Oxford Subcortical Structural Atlas</b><br>68% Right Cerebral Cortex , 30% Right Cerebral White Matter
+31,33,26 <b>Harvard-Oxford Subcortical Structural Atlas</b><br>64% Right Cerebral White Matter, 35% Right Cerebral Cortex
+48,22,10 <b>Harvard-Oxford Subcortical Structural Atlas</b><br>68% Right Cerebral Cortex , 31% Right Cerebral White Matter
+-35,20,0 <b>Harvard-Oxford Subcortical Structural Atlas</b><br>75% Left Cerebral Cortex , 4% Left Cerebral White Matter
+36,22,3 <b>Harvard-Oxford Subcortical Structural Atlas</b><br>96% Right Cerebral Cortex , 3% Right Cerebral White Matter
+37,32,-2 <b>Harvard-Oxford Subcortical Structural Atlas</b><br>65% Right Cerebral White Matter, 34% Right Cerebral Cortex
+34,16,-8 <b>Harvard-Oxford Subcortical Structural Atlas</b><br>92% Right Cerebral Cortex , 8% Right Cerebral White Matter
+-11,26,25 <b>Harvard-Oxford Subcortical Structural Atlas</b><br>39% Left Cerebral Cortex , 24% Left Cerebral White Matter
+-1,15,44 <b>Harvard-Oxford Subcortical Structural Atlas</b><br>38% Left Cerebral Cortex , 18% Right Cerebral Cortex
+-28,52,21 <b>Harvard-Oxford Subcortical Structural Atlas</b><br>69% Left Cerebral Cortex , 7% Left Cerebral White Matter
+0,30,27 <b>Harvard-Oxford Subcortical Structural Atlas</b><br>44% Left Cerebral Cortex , 26% Right Cerebral Cortex
+5,23,37 <b>Harvard-Oxford Subcortical Structural Atlas</b><br>85% Right Cerebral Cortex , 13% Right Cerebral White Matter
+10,22,27 <b>Harvard-Oxford Subcortical Structural Atlas</b><br>67% Right Cerebral White Matter, 32% Right Cerebral Cortex
+31,56,14 <b>Harvard-Oxford Subcortical Structural Atlas</b><br>86% Right Cerebral Cortex , 12% Right Cerebral White Matter
+26,50,27 <b>Harvard-Oxford Subcortical Structural Atlas</b><br>72% Right Cerebral Cortex , 26% Right Cerebral White Matter
+-39,51,17 <b>Harvard-Oxford Subcortical Structural Atlas</b><br>71% Left Cerebral Cortex , 3% Left Cerebral White Matter
+2,-24,30 <b>Harvard-Oxford Subcortical Structural Atlas</b><br>81% Right Cerebral Cortex , 3% Right Cerebral White Matter, 3% Left Cerebral Cortex
+6,-24,0 <b>Harvard-Oxford Subcortical Structural Atlas</b><br>61% Right Thalamus, 2% Brain-Stem
+-2,-13,12 <b>Harvard-Oxford Subcortical Structural Atlas</b><br>79% Left Thalamus
+-10,-18,7 <b>Harvard-Oxford Subcortical Structural Atlas</b><br>100% Left Thalamus
+12,-17,8 <b>Harvard-Oxford Subcortical Structural Atlas</b><br>100% Right Thalamus
+-5,-28,-4 <b>Harvard-Oxford Subcortical Structural Atlas</b><br>37% Brain-Stem
+-22,7,-5 <b>Harvard-Oxford Subcortical Structural Atlas</b><br>95% Left Putamen
+-15,4,8 <b>Harvard-Oxford Subcortical Structural Atlas</b><br>57% Left Cerebral White Matter, 4% Left Caudate, 3% Left Cerebral Cortex
+31,-14,2 <b>Harvard-Oxford Subcortical Structural Atlas</b><br>71% Right Putamen, 24% Right Cerebral White Matter, 4% Right Cerebral Cortex
+23,10,1 <b>Harvard-Oxford Subcortical Structural Atlas</b><br>100% Right Putamen
+29,1,4 <b>Harvard-Oxford Subcortical Structural Atlas</b><br>93% Right Putamen, 5% Right Cerebral White Matter, 2% Right Cerebral Cortex
+-31,-11,0 <b>Harvard-Oxford Subcortical Structural Atlas</b><br>95% Left Putamen
+15,5,7 <b>Harvard-Oxford Subcortical Structural Atlas</b><br>78% Right Cerebral White Matter, 15% Right Pallidum, 5% Right Cerebral Cortex , 1% Right Putamen
+9,-4,6 <b>Harvard-Oxford Subcortical Structural Atlas</b><br>95% Right Thalamus, 4% Right Cerebral White Matter, 1% Right Cerebral Cortex
+54,-43,22 <b>Harvard-Oxford Subcortical Structural Atlas</b><br>57% Right Cerebral Cortex , 41% Right Cerebral White Matter
+-56,-50,10 <b>Harvard-Oxford Subcortical Structural Atlas</b><br>66% Left Cerebral Cortex , 8% Left Cerebral White Matter
+-55,-40,14 <b>Harvard-Oxford Subcortical Structural Atlas</b><br>42% Left Cerebral Cortex , 19% Left Cerebral White Matter
+52,-33,8 <b>Harvard-Oxford Subcortical Structural Atlas</b><br>55% Right Cerebral Cortex , 43% Right Cerebral White Matter
+51,-29,-4 <b>Harvard-Oxford Subcortical Structural Atlas</b><br>91% Right Cerebral Cortex , 8% Right Cerebral White Matter
+56,-46,11 <b>Harvard-Oxford Subcortical Structural Atlas</b><br>80% Right Cerebral Cortex , 19% Right Cerebral White Matter
+53,33,1 <b>Harvard-Oxford Subcortical Structural Atlas</b><br>89% Right Cerebral Cortex , 7% Right Cerebral White Matter
+-49,25,-1 <b>Harvard-Oxford Subcortical Structural Atlas</b><br>70% Left Cerebral Cortex , 6% Left Cerebral White Matter
+-16,-65,-20 <b>Harvard-Oxford Subcortical Structural Atlas</b><br>No label found!
+-32,-55,-25 <b>Harvard-Oxford Subcortical Structural Atlas</b><br>No label found!
+22,-58,-23 <b>Harvard-Oxford Subcortical Structural Atlas</b><br>No label found!
+1,-62,-18 <b>Harvard-Oxford Subcortical Structural Atlas</b><br>No label found!
+33,-12,-34 <b>Harvard-Oxford Subcortical Structural Atlas</b><br>81% Right Cerebral Cortex , 17% Right Cerebral White Matter
+-31,-10,-36 <b>Harvard-Oxford Subcortical Structural Atlas</b><br>77% Left Cerebral Cortex , 4% Left Cerebral White Matter
+49,-3,-38 <b>Harvard-Oxford Subcortical Structural Atlas</b><br>83% Right Cerebral Cortex , 16% Right Cerebral White Matter
+-50,-7,-39 <b>Harvard-Oxford Subcortical Structural Atlas</b><br>74% Left Cerebral Cortex
+10,-62,61 <b>Harvard-Oxford Subcortical Structural Atlas</b><br>69% Right Cerebral Cortex , 24% Right Cerebral White Matter
+-52,-63,5 <b>Harvard-Oxford Subcortical Structural Atlas</b><br>45% Left Cerebral Cortex , 18% Left Cerebral White Matter
+-47,-51,-21 <b>Harvard-Oxford Subcortical Structural Atlas</b><br>72% Left Cerebral Cortex , 1% Left Cerebral White Matter
+46,-47,-17 <b>Harvard-Oxford Subcortical Structural Atlas</b><br>83% Right Cerebral Cortex , 17% Right Cerebral White Matter
+47,-30,49 <b>Harvard-Oxford Subcortical Structural Atlas</b><br>75% Right Cerebral Cortex , 19% Right Cerebral White Matter
+22,-65,48 <b>Harvard-Oxford Subcortical Structural Atlas</b><br>52% Right Cerebral White Matter, 44% Right Cerebral Cortex
+46,-59,4 <b>Harvard-Oxford Subcortical Structural Atlas</b><br>62% Right Cerebral Cortex , 36% Right Cerebral White Matter
+25,-58,60 <b>Harvard-Oxford Subcortical Structural Atlas</b><br>53% Right Cerebral Cortex , 38% Right Cerebral White Matter
+-33,-46,47 <b>Harvard-Oxford Subcortical Structural Atlas</b><br>48% Left Cerebral Cortex , 22% Left Cerebral White Matter
+-27,-71,37 <b>Harvard-Oxford Subcortical Structural Atlas</b><br>55% Left Cerebral Cortex , 12% Left Cerebral White Matter
+-32,-1,54 <b>Harvard-Oxford Subcortical Structural Atlas</b><br>54% Left Cerebral Cortex , 13% Left Cerebral White Matter
+-42,-60,-9 <b>Harvard-Oxford Subcortical Structural Atlas</b><br>55% Left Cerebral Cortex , 14% Left Cerebral White Matter
+-17,-59,64 <b>Harvard-Oxford Subcortical Structural Atlas</b><br>52% Left Cerebral Cortex , 10% Left Cerebral White Matter
+29,-5,54 <b>Harvard-Oxford Subcortical Structural Atlas</b><br>76% Right Cerebral Cortex , 23% Right Cerebral White Matter

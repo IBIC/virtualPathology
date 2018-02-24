@@ -1,0 +1,264 @@
+-25,-98,-12 <b>Harvard-Oxford Cortical Structural Atlas</b><br>64% Occipital Pole, 4% Lateral Occipital Cortex, inferior division
+27,-97,-13 <b>Harvard-Oxford Cortical Structural Atlas</b><br>30% Occipital Pole, 2% Lateral Occipital Cortex, inferior division
+24,32,-18 <b>Harvard-Oxford Cortical Structural Atlas</b><br>60% Frontal Orbital Cortex, 36% Frontal Pole
+-56,-45,-24 <b>Harvard-Oxford Cortical Structural Atlas</b><br>51% Inferior Temporal Gyrus, temporooccipital part, 29% Inferior Temporal Gyrus, posterior division, 3% Middle Temporal Gyrus, posterior division, 2% Temporal Fusiform Cortex, posterior division
+8,41,-24 <b>Harvard-Oxford Cortical Structural Atlas</b><br>54% Frontal Medial Cortex, 27% Frontal Pole, 1% Frontal Orbital Cortex
+-21,-22,-20 <b>Harvard-Oxford Cortical Structural Atlas</b><br>27% Parahippocampal Gyrus, anterior division, 23% Parahippocampal Gyrus, posterior division
+17,-28,-17 <b>Harvard-Oxford Cortical Structural Atlas</b><br>56% Parahippocampal Gyrus, posterior division
+-37,-29,-26 <b>Harvard-Oxford Cortical Structural Atlas</b><br>82% Temporal Fusiform Cortex, posterior division, 2% Parahippocampal Gyrus, posterior division, 1% Inferior Temporal Gyrus, posterior division
+65,-24,-19 <b>Harvard-Oxford Cortical Structural Atlas</b><br>55% Middle Temporal Gyrus, posterior division, 22% Inferior Temporal Gyrus, posterior division
+52,-34,-27 <b>Harvard-Oxford Cortical Structural Atlas</b><br>30% Inferior Temporal Gyrus, posterior division, 9% Temporal Fusiform Cortex, posterior division, 4% Inferior Temporal Gyrus, temporooccipital part
+55,-31,-17 <b>Harvard-Oxford Cortical Structural Atlas</b><br>26% Inferior Temporal Gyrus, posterior division, 11% Middle Temporal Gyrus, posterior division, 3% Inferior Temporal Gyrus, temporooccipital part
+34,38,-12 <b>Harvard-Oxford Cortical Structural Atlas</b><br>73% Frontal Pole, 18% Frontal Orbital Cortex
+-7,-52,61 <b>Harvard-Oxford Cortical Structural Atlas</b><br>68% Precuneous Cortex, 5% Postcentral Gyrus, 1% Superior Parietal Lobule
+-14,-18,40 <b>Harvard-Oxford Cortical Structural Atlas</b><br>20% Precentral Gyrus, 10% Cingulate Gyrus, posterior division, 3% Juxtapositional Lobule Cortex (formerly Supplementary Motor Cortex), 2% Cingulate Gyrus, anterior division
+0,-15,47 <b>Harvard-Oxford Cortical Structural Atlas</b><br>32% Cingulate Gyrus, posterior division, 18% Cingulate Gyrus, anterior division, 17% Precentral Gyrus, 4% Juxtapositional Lobule Cortex (formerly Supplementary Motor Cortex)
+10,-2,45 <b>Harvard-Oxford Cortical Structural Atlas</b><br>39% Cingulate Gyrus, anterior division, 27% Juxtapositional Lobule Cortex (formerly Supplementary Motor Cortex), 3% Cingulate Gyrus, posterior division
+-7,-21,65 <b>Harvard-Oxford Cortical Structural Atlas</b><br>39% Precentral Gyrus, 2% Juxtapositional Lobule Cortex (formerly Supplementary Motor Cortex)
+-7,-33,72 <b>Harvard-Oxford Cortical Structural Atlas</b><br>28% Postcentral Gyrus, 24% Precentral Gyrus, 2% Precuneous Cortex
+13,-33,75 <b>Harvard-Oxford Cortical Structural Atlas</b><br>60% Postcentral Gyrus, 7% Precentral Gyrus
+-54,-23,43 <b>Harvard-Oxford Cortical Structural Atlas</b><br>54% Postcentral Gyrus, 15% Supramarginal Gyrus, anterior division
+29,-17,71 <b>Harvard-Oxford Cortical Structural Atlas</b><br>51% Precentral Gyrus, 4% Postcentral Gyrus
+10,-46,73 <b>Harvard-Oxford Cortical Structural Atlas</b><br>34% Postcentral Gyrus, 19% Superior Parietal Lobule, 9% Precuneous Cortex, 1% Precentral Gyrus
+-23,-30,72 <b>Harvard-Oxford Cortical Structural Atlas</b><br>36% Postcentral Gyrus, 20% Precentral Gyrus
+-40,-19,54 <b>Harvard-Oxford Cortical Structural Atlas</b><br>38% Precentral Gyrus, 24% Postcentral Gyrus
+29,-39,59 <b>Harvard-Oxford Cortical Structural Atlas</b><br>40% Superior Parietal Lobule, 24% Postcentral Gyrus
+50,-20,42 <b>Harvard-Oxford Cortical Structural Atlas</b><br>54% Postcentral Gyrus, 6% Supramarginal Gyrus, anterior division
+-38,-27,69 <b>Harvard-Oxford Cortical Structural Atlas</b><br>51% Postcentral Gyrus, 13% Precentral Gyrus
+20,-29,60 <b>Harvard-Oxford Cortical Structural Atlas</b><br>35% Precentral Gyrus, 28% Postcentral Gyrus
+44,-8,57 <b>Harvard-Oxford Cortical Structural Atlas</b><br>57% Precentral Gyrus, 3% Postcentral Gyrus, 1% Middle Frontal Gyrus
+-29,-43,61 <b>Harvard-Oxford Cortical Structural Atlas</b><br>41% Superior Parietal Lobule, 10% Postcentral Gyrus
+10,-17,74 <b>Harvard-Oxford Cortical Structural Atlas</b><br>39% Precentral Gyrus, 3% Superior Frontal Gyrus
+22,-42,69 <b>Harvard-Oxford Cortical Structural Atlas</b><br>37% Superior Parietal Lobule, 31% Postcentral Gyrus
+-45,-32,47 <b>Harvard-Oxford Cortical Structural Atlas</b><br>38% Postcentral Gyrus, 15% Supramarginal Gyrus, anterior division, 10% Superior Parietal Lobule
+-21,-31,61 <b>Harvard-Oxford Cortical Structural Atlas</b><br>35% Postcentral Gyrus, 23% Precentral Gyrus
+-13,-17,75 <b>Harvard-Oxford Cortical Structural Atlas</b><br>38% Precentral Gyrus, 7% Superior Frontal Gyrus
+42,-20,55 <b>Harvard-Oxford Cortical Structural Atlas</b><br>32% Postcentral Gyrus, 32% Precentral Gyrus
+-38,-15,69 <b>Harvard-Oxford Cortical Structural Atlas</b><br>53% Precentral Gyrus, 5% Postcentral Gyrus
+-16,-46,73 <b>Harvard-Oxford Cortical Structural Atlas</b><br>41% Postcentral Gyrus, 20% Superior Parietal Lobule
+2,-28,60 <b>Harvard-Oxford Cortical Structural Atlas</b><br>48% Precentral Gyrus, 5% Postcentral Gyrus
+3,-17,58 <b>Harvard-Oxford Cortical Structural Atlas</b><br>64% Precentral Gyrus, 12% Juxtapositional Lobule Cortex (formerly Supplementary Motor Cortex)
+38,-17,45 <b>Harvard-Oxford Cortical Structural Atlas</b><br>38% Precentral Gyrus, 35% Postcentral Gyrus
+-49,-11,35 <b>Harvard-Oxford Cortical Structural Atlas</b><br>39% Precentral Gyrus, 26% Postcentral Gyrus
+36,-9,14 <b>Harvard-Oxford Cortical Structural Atlas</b><br>53% Insular Cortex, 6% Central Opercular Cortex
+51,-6,32 <b>Harvard-Oxford Cortical Structural Atlas</b><br>36% Precentral Gyrus, 17% Postcentral Gyrus
+-53,-10,24 <b>Harvard-Oxford Cortical Structural Atlas</b><br>30% Postcentral Gyrus, 20% Precentral Gyrus
+66,-8,25 <b>Harvard-Oxford Cortical Structural Atlas</b><br>70% Postcentral Gyrus, 5% Precentral Gyrus
+-3,2,53 <b>Harvard-Oxford Cortical Structural Atlas</b><br>70% Juxtapositional Lobule Cortex (formerly Supplementary Motor Cortex), 4% Cingulate Gyrus, anterior division, 3% Paracingulate Gyrus
+54,-28,34 <b>Harvard-Oxford Cortical Structural Atlas</b><br>27% Supramarginal Gyrus, anterior division, 10% Parietal Operculum Cortex, 6% Postcentral Gyrus
+19,-8,64 <b>Harvard-Oxford Cortical Structural Atlas</b><br>29% Superior Frontal Gyrus, 14% Precentral Gyrus, 3% Middle Frontal Gyrus
+-16,-5,71 <b>Harvard-Oxford Cortical Structural Atlas</b><br>45% Superior Frontal Gyrus, 2% Precentral Gyrus
+-10,-2,42 <b>Harvard-Oxford Cortical Structural Atlas</b><br>31% Juxtapositional Lobule Cortex (formerly Supplementary Motor Cortex), 21% Cingulate Gyrus, anterior division
+37,1,-4 <b>Harvard-Oxford Cortical Structural Atlas</b><br>53% Insular Cortex
+13,-1,70 <b>Harvard-Oxford Cortical Structural Atlas</b><br>51% Superior Frontal Gyrus, 5% Precentral Gyrus, 1% Juxtapositional Lobule Cortex (formerly Supplementary Motor Cortex)
+7,8,51 <b>Harvard-Oxford Cortical Structural Atlas</b><br>31% Juxtapositional Lobule Cortex (formerly Supplementary Motor Cortex), 27% Paracingulate Gyrus, 5% Superior Frontal Gyrus, 3% Cingulate Gyrus, anterior division
+-45,0,9 <b>Harvard-Oxford Cortical Structural Atlas</b><br>71% Central Opercular Cortex, 4% Insular Cortex
+49,8,-1 <b>Harvard-Oxford Cortical Structural Atlas</b><br>32% Central Opercular Cortex, 17% Temporal Pole, 13% Frontal Operculum Cortex, 8% Planum Polare, 4% Inferior Frontal Gyrus, pars opercularis, 3% Precentral Gyrus
+-34,3,4 <b>Harvard-Oxford Cortical Structural Atlas</b><br>21% Insular Cortex
+-51,8,-2 <b>Harvard-Oxford Cortical Structural Atlas</b><br>23% Central Opercular Cortex, 19% Frontal Operculum Cortex, 11% Precentral Gyrus, 10% Temporal Pole, 9% Inferior Frontal Gyrus, pars opercularis
+-5,18,34 <b>Harvard-Oxford Cortical Structural Atlas</b><br>61% Cingulate Gyrus, anterior division, 27% Paracingulate Gyrus
+36,10,1 <b>Harvard-Oxford Cortical Structural Atlas</b><br>47% Insular Cortex
+32,-26,13 <b>Harvard-Oxford Cortical Structural Atlas</b><br>23% Insular Cortex, 8% Planum Temporale, 2% Heschl's Gyrus (includes H1 and H2)
+65,-33,20 <b>Harvard-Oxford Cortical Structural Atlas</b><br>38% Superior Temporal Gyrus, posterior division, 22% Supramarginal Gyrus, posterior division, 11% Planum Temporale, 8% Parietal Operculum Cortex, 3% Supramarginal Gyrus, anterior division, 1% Angular Gyrus
+58,-16,7 <b>Harvard-Oxford Cortical Structural Atlas</b><br>40% Planum Temporale, 17% Heschl's Gyrus (includes H1 and H2), 4% Central Opercular Cortex, 2% Planum Polare, 1% Parietal Operculum Cortex, 1% Superior Temporal Gyrus, posterior division
+-38,-33,17 <b>Harvard-Oxford Cortical Structural Atlas</b><br>44% Planum Temporale, 35% Parietal Operculum Cortex, 3% Heschl's Gyrus (includes H1 and H2), 2% Supramarginal Gyrus, posterior division, 1% Superior Temporal Gyrus, posterior division
+-60,-25,14 <b>Harvard-Oxford Cortical Structural Atlas</b><br>36% Planum Temporale, 35% Parietal Operculum Cortex, 8% Central Opercular Cortex, 3% Superior Temporal Gyrus, posterior division, 1% Supramarginal Gyrus, anterior division
+-49,-26,5 <b>Harvard-Oxford Cortical Structural Atlas</b><br>33% Planum Temporale, 20% Heschl's Gyrus (includes H1 and H2), 3% Superior Temporal Gyrus, posterior division
+43,-23,20 <b>Harvard-Oxford Cortical Structural Atlas</b><br>70% Parietal Operculum Cortex, 7% Central Opercular Cortex, 2% Planum Temporale, 1% Heschl's Gyrus (includes H1 and H2)
+-50,-34,26 <b>Harvard-Oxford Cortical Structural Atlas</b><br>41% Parietal Operculum Cortex, 12% Supramarginal Gyrus, anterior division, 3% Planum Temporale
+-53,-22,23 <b>Harvard-Oxford Cortical Structural Atlas</b><br>27% Central Opercular Cortex, 13% Parietal Operculum Cortex, 12% Postcentral Gyrus, 2% Supramarginal Gyrus, anterior division
+-55,-9,12 <b>Harvard-Oxford Cortical Structural Atlas</b><br>72% Central Opercular Cortex, 5% Planum Polare, 2% Planum Temporale, 1% Postcentral Gyrus
+56,-5,13 <b>Harvard-Oxford Cortical Structural Atlas</b><br>52% Central Opercular Cortex, 3% Planum Polare, 2% Postcentral Gyrus, 1% Heschl's Gyrus (includes H1 and H2), 1% Precentral Gyrus
+59,-17,29 <b>Harvard-Oxford Cortical Structural Atlas</b><br>45% Postcentral Gyrus, 25% Supramarginal Gyrus, anterior division, 2% Parietal Operculum Cortex
+-30,-27,12 <b>Harvard-Oxford Cortical Structural Atlas</b><br>12% Insular Cortex, 2% Planum Temporale, 1% Heschl's Gyrus (includes H1 and H2)
+-41,-75,26 <b>Harvard-Oxford Cortical Structural Atlas</b><br>56% Lateral Occipital Cortex, superior division, 1% Lateral Occipital Cortex, inferior division
+6,67,-4 <b>Harvard-Oxford Cortical Structural Atlas</b><br>75% Frontal Pole
+8,48,-15 <b>Harvard-Oxford Cortical Structural Atlas</b><br>30% Frontal Medial Cortex, 1% Paracingulate Gyrus, 1% Frontal Pole
+-13,-40,1 <b>Harvard-Oxford Cortical Structural Atlas</b><br>20% Cingulate Gyrus, posterior division, 16% Parahippocampal Gyrus, posterior division, 1% Lingual Gyrus
+-18,63,-9 <b>Harvard-Oxford Cortical Structural Atlas</b><br>65% Frontal Pole
+-46,-61,21 <b>Harvard-Oxford Cortical Structural Atlas</b><br>36% Lateral Occipital Cortex, superior division, 25% Angular Gyrus, 2% Lateral Occipital Cortex, inferior division, 1% Middle Temporal Gyrus, temporooccipital part
+43,-72,28 <b>Harvard-Oxford Cortical Structural Atlas</b><br>64% Lateral Occipital Cortex, superior division
+-44,12,-34 <b>Harvard-Oxford Cortical Structural Atlas</b><br>68% Temporal Pole
+46,16,-30 <b>Harvard-Oxford Cortical Structural Atlas</b><br>71% Temporal Pole
+-68,-23,-16 <b>Harvard-Oxford Cortical Structural Atlas</b><br>63% Middle Temporal Gyrus, posterior division, 2% Inferior Temporal Gyrus, posterior division
+-58,-26,-15 <b>Harvard-Oxford Cortical Structural Atlas</b><br>44% Middle Temporal Gyrus, posterior division, 11% Inferior Temporal Gyrus, posterior division
+27,16,-17 <b>Harvard-Oxford Cortical Structural Atlas</b><br>63% Frontal Orbital Cortex, 14% Insular Cortex
+-44,-65,35 <b>Harvard-Oxford Cortical Structural Atlas</b><br>66% Lateral Occipital Cortex, superior division, 3% Angular Gyrus
+-39,-75,44 <b>Harvard-Oxford Cortical Structural Atlas</b><br>79% Lateral Occipital Cortex, superior division
+-7,-55,27 <b>Harvard-Oxford Cortical Structural Atlas</b><br>37% Precuneous Cortex, 37% Cingulate Gyrus, posterior division
+6,-59,35 <b>Harvard-Oxford Cortical Structural Atlas</b><br>56% Precuneous Cortex
+-11,-56,16 <b>Harvard-Oxford Cortical Structural Atlas</b><br>43% Precuneous Cortex, 3% Cingulate Gyrus, posterior division, 2% Intracalcarine Cortex, 1% Supracalcarine Cortex
+-3,-49,13 <b>Harvard-Oxford Cortical Structural Atlas</b><br>44% Cingulate Gyrus, posterior division, 15% Precuneous Cortex
+8,-48,31 <b>Harvard-Oxford Cortical Structural Atlas</b><br>52% Cingulate Gyrus, posterior division, 7% Precuneous Cortex
+15,-63,26 <b>Harvard-Oxford Cortical Structural Atlas</b><br>56% Precuneous Cortex, 12% Supracalcarine Cortex, 10% Cuneal Cortex
+-2,-37,44 <b>Harvard-Oxford Cortical Structural Atlas</b><br>58% Cingulate Gyrus, posterior division, 30% Precuneous Cortex
+11,-54,17 <b>Harvard-Oxford Cortical Structural Atlas</b><br>48% Precuneous Cortex, 9% Supracalcarine Cortex, 1% Cingulate Gyrus, posterior division, 1% Intracalcarine Cortex
+52,-59,36 <b>Harvard-Oxford Cortical Structural Atlas</b><br>51% Lateral Occipital Cortex, superior division, 23% Angular Gyrus
+23,33,48 <b>Harvard-Oxford Cortical Structural Atlas</b><br>31% Superior Frontal Gyrus, 17% Middle Frontal Gyrus, 8% Frontal Pole
+-10,39,52 <b>Harvard-Oxford Cortical Structural Atlas</b><br>38% Superior Frontal Gyrus, 28% Frontal Pole
+-16,29,53 <b>Harvard-Oxford Cortical Structural Atlas</b><br>32% Superior Frontal Gyrus, 1% Middle Frontal Gyrus
+-35,20,51 <b>Harvard-Oxford Cortical Structural Atlas</b><br>54% Middle Frontal Gyrus, 2% Superior Frontal Gyrus
+22,39,39 <b>Harvard-Oxford Cortical Structural Atlas</b><br>46% Frontal Pole, 11% Superior Frontal Gyrus, 8% Middle Frontal Gyrus
+13,55,38 <b>Harvard-Oxford Cortical Structural Atlas</b><br>81% Frontal Pole
+-10,55,39 <b>Harvard-Oxford Cortical Structural Atlas</b><br>73% Frontal Pole, 2% Superior Frontal Gyrus
+-20,45,39 <b>Harvard-Oxford Cortical Structural Atlas</b><br>77% Frontal Pole, 3% Superior Frontal Gyrus
+6,54,16 <b>Harvard-Oxford Cortical Structural Atlas</b><br>39% Paracingulate Gyrus, 19% Superior Frontal Gyrus, 15% Frontal Pole
+6,64,22 <b>Harvard-Oxford Cortical Structural Atlas</b><br>82% Frontal Pole, 1% Superior Frontal Gyrus
+-7,51,-1 <b>Harvard-Oxford Cortical Structural Atlas</b><br>65% Paracingulate Gyrus, 15% Frontal Medial Cortex, 5% Frontal Pole, 4% Cingulate Gyrus, anterior division
+9,54,3 <b>Harvard-Oxford Cortical Structural Atlas</b><br>46% Paracingulate Gyrus, 19% Frontal Pole, 7% Frontal Medial Cortex, 1% Superior Frontal Gyrus
+-3,44,-9 <b>Harvard-Oxford Cortical Structural Atlas</b><br>60% Paracingulate Gyrus, 30% Frontal Medial Cortex, 4% Cingulate Gyrus, anterior division
+8,42,-5 <b>Harvard-Oxford Cortical Structural Atlas</b><br>56% Paracingulate Gyrus, 13% Cingulate Gyrus, anterior division, 12% Frontal Medial Cortex
+-11,45,8 <b>Harvard-Oxford Cortical Structural Atlas</b><br>33% Cingulate Gyrus, anterior division, 33% Paracingulate Gyrus
+-2,38,36 <b>Harvard-Oxford Cortical Structural Atlas</b><br>50% Paracingulate Gyrus, 21% Superior Frontal Gyrus
+-3,42,16 <b>Harvard-Oxford Cortical Structural Atlas</b><br>53% Cingulate Gyrus, anterior division, 40% Paracingulate Gyrus
+-20,64,19 <b>Harvard-Oxford Cortical Structural Atlas</b><br>85% Frontal Pole
+-8,48,23 <b>Harvard-Oxford Cortical Structural Atlas</b><br>46% Paracingulate Gyrus, 15% Superior Frontal Gyrus, 1% Frontal Pole
+65,-12,-19 <b>Harvard-Oxford Cortical Structural Atlas</b><br>65% Middle Temporal Gyrus, posterior division, 13% Middle Temporal Gyrus, anterior division
+-56,-13,-10 <b>Harvard-Oxford Cortical Structural Atlas</b><br>30% Middle Temporal Gyrus, posterior division, 26% Superior Temporal Gyrus, posterior division, 14% Middle Temporal Gyrus, anterior division, 5% Superior Temporal Gyrus, anterior division
+-58,-30,-4 <b>Harvard-Oxford Cortical Structural Atlas</b><br>44% Middle Temporal Gyrus, posterior division, 33% Superior Temporal Gyrus, posterior division
+65,-31,-9 <b>Harvard-Oxford Cortical Structural Atlas</b><br>62% Middle Temporal Gyrus, posterior division, 7% Middle Temporal Gyrus, temporooccipital part, 1% Inferior Temporal Gyrus, posterior division
+-68,-41,-5 <b>Harvard-Oxford Cortical Structural Atlas</b><br>48% Middle Temporal Gyrus, posterior division, 24% Middle Temporal Gyrus, temporooccipital part, 1% Supramarginal Gyrus, posterior division
+13,30,59 <b>Harvard-Oxford Cortical Structural Atlas</b><br>60% Superior Frontal Gyrus, 3% Frontal Pole
+12,36,20 <b>Harvard-Oxford Cortical Structural Atlas</b><br>34% Cingulate Gyrus, anterior division, 29% Paracingulate Gyrus
+52,-2,-16 <b>Harvard-Oxford Cortical Structural Atlas</b><br>47% Superior Temporal Gyrus, anterior division, 11% Middle Temporal Gyrus, anterior division, 8% Superior Temporal Gyrus, posterior division, 1% Planum Polare, 1% Middle Temporal Gyrus, posterior division
+-26,-40,-8 <b>Harvard-Oxford Cortical Structural Atlas</b><br>17% Lingual Gyrus, 16% Parahippocampal Gyrus, posterior division, 2% Temporal Fusiform Cortex, posterior division, 1% Temporal Occipital Fusiform Cortex
+27,-37,-13 <b>Harvard-Oxford Cortical Structural Atlas</b><br>29% Parahippocampal Gyrus, posterior division, 26% Temporal Fusiform Cortex, posterior division, 23% Temporal Occipital Fusiform Cortex, 14% Lingual Gyrus
+-34,-38,-16 <b>Harvard-Oxford Cortical Structural Atlas</b><br>48% Temporal Fusiform Cortex, posterior division, 10% Parahippocampal Gyrus, posterior division, 2% Temporal Occipital Fusiform Cortex
+28,-77,-32 <b>Harvard-Oxford Cortical Structural Atlas</b><br>No label found!
+52,7,-30 <b>Harvard-Oxford Cortical Structural Atlas</b><br>33% Temporal Pole, 13% Middle Temporal Gyrus, anterior division
+-53,3,-27 <b>Harvard-Oxford Cortical Structural Atlas</b><br>33% Middle Temporal Gyrus, anterior division, 16% Temporal Pole, 3% Middle Temporal Gyrus, posterior division, 1% Superior Temporal Gyrus, anterior division
+47,-50,29 <b>Harvard-Oxford Cortical Structural Atlas</b><br>56% Angular Gyrus, 5% Supramarginal Gyrus, posterior division
+-49,-42,1 <b>Harvard-Oxford Cortical Structural Atlas</b><br>20% Middle Temporal Gyrus, posterior division, 7% Middle Temporal Gyrus, temporooccipital part, 7% Superior Temporal Gyrus, posterior division, 4% Supramarginal Gyrus, posterior division
+-31,19,-19 <b>Harvard-Oxford Cortical Structural Atlas</b><br>82% Frontal Orbital Cortex
+-2,-35,31 <b>Harvard-Oxford Cortical Structural Atlas</b><br>92% Cingulate Gyrus, posterior division, 1% Precuneous Cortex
+-7,-71,42 <b>Harvard-Oxford Cortical Structural Atlas</b><br>57% Precuneous Cortex, 10% Cuneal Cortex, 5% Lateral Occipital Cortex, superior division
+11,-66,42 <b>Harvard-Oxford Cortical Structural Atlas</b><br>45% Precuneous Cortex, 5% Lateral Occipital Cortex, superior division, 3% Cuneal Cortex
+4,-48,51 <b>Harvard-Oxford Cortical Structural Atlas</b><br>87% Precuneous Cortex, 2% Cingulate Gyrus, posterior division, 1% Precentral Gyrus
+-46,31,-13 <b>Harvard-Oxford Cortical Structural Atlas</b><br>74% Frontal Orbital Cortex, 11% Frontal Pole, 1% Inferior Frontal Gyrus, pars triangularis
+-10,11,67 <b>Harvard-Oxford Cortical Structural Atlas</b><br>41% Superior Frontal Gyrus
+49,35,-12 <b>Harvard-Oxford Cortical Structural Atlas</b><br>43% Frontal Pole, 33% Frontal Orbital Cortex, 13% Inferior Frontal Gyrus, pars triangularis
+8,-91,-7 <b>Harvard-Oxford Cortical Structural Atlas</b><br>41% Occipital Pole, 17% Lingual Gyrus, 7% Occipital Fusiform Gyrus, 2% Intracalcarine Cortex
+17,-91,-14 <b>Harvard-Oxford Cortical Structural Atlas</b><br>31% Occipital Pole, 14% Occipital Fusiform Gyrus, 6% Lateral Occipital Cortex, inferior division, 5% Lingual Gyrus
+-12,-95,-13 <b>Harvard-Oxford Cortical Structural Atlas</b><br>56% Occipital Pole, 4% Occipital Fusiform Gyrus, 3% Lingual Gyrus, 3% Lateral Occipital Cortex, inferior division
+18,-47,-10 <b>Harvard-Oxford Cortical Structural Atlas</b><br>81% Lingual Gyrus, 4% Temporal Occipital Fusiform Cortex
+40,-72,14 <b>Harvard-Oxford Cortical Structural Atlas</b><br>25% Lateral Occipital Cortex, inferior division, 16% Lateral Occipital Cortex, superior division
+8,-72,11 <b>Harvard-Oxford Cortical Structural Atlas</b><br>66% Intracalcarine Cortex, 5% Lingual Gyrus, 3% Cuneal Cortex, 1% Supracalcarine Cortex
+-8,-81,7 <b>Harvard-Oxford Cortical Structural Atlas</b><br>65% Intracalcarine Cortex, 4% Lingual Gyrus, 1% Supracalcarine Cortex
+-28,-79,19 <b>Harvard-Oxford Cortical Structural Atlas</b><br>54% Lateral Occipital Cortex, superior division, 2% Lateral Occipital Cortex, inferior division
+20,-66,2 <b>Harvard-Oxford Cortical Structural Atlas</b><br>24% Intracalcarine Cortex, 11% Lingual Gyrus, 2% Occipital Fusiform Gyrus
+-24,-91,19 <b>Harvard-Oxford Cortical Structural Atlas</b><br>46% Occipital Pole, 12% Lateral Occipital Cortex, superior division
+27,-59,-9 <b>Harvard-Oxford Cortical Structural Atlas</b><br>26% Temporal Occipital Fusiform Cortex, 18% Lingual Gyrus, 17% Occipital Fusiform Gyrus
+-15,-72,-8 <b>Harvard-Oxford Cortical Structural Atlas</b><br>48% Lingual Gyrus, 22% Occipital Fusiform Gyrus
+-18,-68,5 <b>Harvard-Oxford Cortical Structural Atlas</b><br>44% Intracalcarine Cortex, 7% Lingual Gyrus, 2% Precuneous Cortex, 1% Supracalcarine Cortex
+43,-78,-12 <b>Harvard-Oxford Cortical Structural Atlas</b><br>62% Lateral Occipital Cortex, inferior division, 4% Occipital Fusiform Gyrus
+-47,-76,-10 <b>Harvard-Oxford Cortical Structural Atlas</b><br>74% Lateral Occipital Cortex, inferior division, 4% Occipital Fusiform Gyrus
+-14,-91,31 <b>Harvard-Oxford Cortical Structural Atlas</b><br>58% Occipital Pole, 5% Lateral Occipital Cortex, superior division
+15,-87,37 <b>Harvard-Oxford Cortical Structural Atlas</b><br>41% Occipital Pole, 25% Lateral Occipital Cortex, superior division, 2% Cuneal Cortex, 1% Precuneous Cortex
+29,-77,25 <b>Harvard-Oxford Cortical Structural Atlas</b><br>67% Lateral Occipital Cortex, superior division
+20,-86,-2 <b>Harvard-Oxford Cortical Structural Atlas</b><br>15% Occipital Fusiform Gyrus, 13% Lingual Gyrus, 12% Occipital Pole, 2% Lateral Occipital Cortex, inferior division
+15,-77,31 <b>Harvard-Oxford Cortical Structural Atlas</b><br>47% Cuneal Cortex, 8% Lateral Occipital Cortex, superior division, 5% Precuneous Cortex
+-16,-52,-1 <b>Harvard-Oxford Cortical Structural Atlas</b><br>57% Lingual Gyrus, 10% Cingulate Gyrus, posterior division, 3% Precuneous Cortex
+42,-66,-8 <b>Harvard-Oxford Cortical Structural Atlas</b><br>37% Lateral Occipital Cortex, inferior division, 9% Occipital Fusiform Gyrus, 5% Inferior Temporal Gyrus, temporooccipital part, 1% Temporal Occipital Fusiform Cortex, 1% Middle Temporal Gyrus, temporooccipital part
+24,-87,24 <b>Harvard-Oxford Cortical Structural Atlas</b><br>35% Lateral Occipital Cortex, superior division, 24% Occipital Pole
+6,-72,24 <b>Harvard-Oxford Cortical Structural Atlas</b><br>46% Cuneal Cortex, 16% Precuneous Cortex, 6% Supracalcarine Cortex, 3% Intracalcarine Cortex
+-42,-74,0 <b>Harvard-Oxford Cortical Structural Atlas</b><br>63% Lateral Occipital Cortex, inferior division
+26,-79,-16 <b>Harvard-Oxford Cortical Structural Atlas</b><br>65% Occipital Fusiform Gyrus, 5% Lateral Occipital Cortex, inferior division, 3% Lingual Gyrus
+-16,-77,34 <b>Harvard-Oxford Cortical Structural Atlas</b><br>30% Cuneal Cortex, 15% Precuneous Cortex, 12% Lateral Occipital Cortex, superior division
+-3,-81,21 <b>Harvard-Oxford Cortical Structural Atlas</b><br>51% Cuneal Cortex, 21% Supracalcarine Cortex, 6% Intracalcarine Cortex
+-40,-88,-6 <b>Harvard-Oxford Cortical Structural Atlas</b><br>64% Lateral Occipital Cortex, inferior division, 11% Occipital Pole
+37,-84,13 <b>Harvard-Oxford Cortical Structural Atlas</b><br>36% Lateral Occipital Cortex, superior division, 24% Lateral Occipital Cortex, inferior division, 5% Occipital Pole
+6,-81,6 <b>Harvard-Oxford Cortical Structural Atlas</b><br>45% Intracalcarine Cortex, 17% Supracalcarine Cortex, 16% Lingual Gyrus, 2% Occipital Pole
+-26,-90,3 <b>Harvard-Oxford Cortical Structural Atlas</b><br>24% Lateral Occipital Cortex, inferior division, 14% Occipital Pole, 6% Lateral Occipital Cortex, superior division
+-33,-79,-13 <b>Harvard-Oxford Cortical Structural Atlas</b><br>46% Occipital Fusiform Gyrus, 20% Lateral Occipital Cortex, inferior division
+37,-81,1 <b>Harvard-Oxford Cortical Structural Atlas</b><br>49% Lateral Occipital Cortex, inferior division, 2% Lateral Occipital Cortex, superior division, 1% Occipital Pole
+-44,2,46 <b>Harvard-Oxford Cortical Structural Atlas</b><br>41% Precentral Gyrus, 26% Middle Frontal Gyrus
+48,25,27 <b>Harvard-Oxford Cortical Structural Atlas</b><br>39% Middle Frontal Gyrus, 14% Inferior Frontal Gyrus, pars triangularis, 11% Inferior Frontal Gyrus, pars opercularis
+-47,11,23 <b>Harvard-Oxford Cortical Structural Atlas</b><br>40% Inferior Frontal Gyrus, pars opercularis, 14% Precentral Gyrus
+-53,-49,43 <b>Harvard-Oxford Cortical Structural Atlas</b><br>32% Supramarginal Gyrus, posterior division, 28% Angular Gyrus, 2% Lateral Occipital Cortex, superior division, 2% Supramarginal Gyrus, anterior division
+-23,11,64 <b>Harvard-Oxford Cortical Structural Atlas</b><br>45% Superior Frontal Gyrus, 2% Middle Frontal Gyrus
+58,-53,-14 <b>Harvard-Oxford Cortical Structural Atlas</b><br>67% Inferior Temporal Gyrus, temporooccipital part, 15% Middle Temporal Gyrus, temporooccipital part, 1% Lateral Occipital Cortex, inferior division
+24,45,-15 <b>Harvard-Oxford Cortical Structural Atlas</b><br>90% Frontal Pole
+34,54,-13 <b>Harvard-Oxford Cortical Structural Atlas</b><br>76% Frontal Pole
+-21,41,-20 <b>Harvard-Oxford Cortical Structural Atlas</b><br>69% Frontal Pole, 11% Frontal Orbital Cortex
+-18,-76,-24 <b>Harvard-Oxford Cortical Structural Atlas</b><br>1% Occipital Fusiform Gyrus
+17,-80,-34 <b>Harvard-Oxford Cortical Structural Atlas</b><br>No label found!
+35,-67,-34 <b>Harvard-Oxford Cortical Structural Atlas</b><br>No label found!
+47,10,33 <b>Harvard-Oxford Cortical Structural Atlas</b><br>37% Precentral Gyrus, 18% Middle Frontal Gyrus, 11% Inferior Frontal Gyrus, pars opercularis
+-41,6,33 <b>Harvard-Oxford Cortical Structural Atlas</b><br>28% Middle Frontal Gyrus, 26% Precentral Gyrus, 10% Inferior Frontal Gyrus, pars opercularis
+-42,38,21 <b>Harvard-Oxford Cortical Structural Atlas</b><br>37% Frontal Pole, 25% Middle Frontal Gyrus, 7% Inferior Frontal Gyrus, pars triangularis
+38,43,15 <b>Harvard-Oxford Cortical Structural Atlas</b><br>51% Frontal Pole, 4% Inferior Frontal Gyrus, pars triangularis, 3% Middle Frontal Gyrus
+49,-42,45 <b>Harvard-Oxford Cortical Structural Atlas</b><br>43% Supramarginal Gyrus, posterior division, 15% Angular Gyrus, 1% Superior Parietal Lobule
+-28,-58,48 <b>Harvard-Oxford Cortical Structural Atlas</b><br>32% Superior Parietal Lobule, 26% Lateral Occipital Cortex, superior division, 6% Angular Gyrus, 2% Supramarginal Gyrus, posterior division
+44,-53,47 <b>Harvard-Oxford Cortical Structural Atlas</b><br>41% Angular Gyrus, 7% Lateral Occipital Cortex, superior division, 7% Superior Parietal Lobule
+32,14,56 <b>Harvard-Oxford Cortical Structural Atlas</b><br>42% Middle Frontal Gyrus, 3% Superior Frontal Gyrus
+37,-65,40 <b>Harvard-Oxford Cortical Structural Atlas</b><br>45% Lateral Occipital Cortex, superior division, 2% Angular Gyrus
+-42,-55,45 <b>Harvard-Oxford Cortical Structural Atlas</b><br>25% Angular Gyrus, 10% Supramarginal Gyrus, posterior division, 8% Lateral Occipital Cortex, superior division, 7% Superior Parietal Lobule
+40,18,40 <b>Harvard-Oxford Cortical Structural Atlas</b><br>51% Middle Frontal Gyrus, 1% Superior Frontal Gyrus
+-34,55,4 <b>Harvard-Oxford Cortical Structural Atlas</b><br>71% Frontal Pole
+-42,45,-2 <b>Harvard-Oxford Cortical Structural Atlas</b><br>67% Frontal Pole
+33,-53,44 <b>Harvard-Oxford Cortical Structural Atlas</b><br>25% Superior Parietal Lobule, 21% Angular Gyrus, 8% Lateral Occipital Cortex, superior division, 2% Supramarginal Gyrus, posterior division
+43,49,-2 <b>Harvard-Oxford Cortical Structural Atlas</b><br>85% Frontal Pole
+-42,25,30 <b>Harvard-Oxford Cortical Structural Atlas</b><br>36% Middle Frontal Gyrus, 3% Inferior Frontal Gyrus, pars triangularis, 2% Inferior Frontal Gyrus, pars opercularis
+-3,26,44 <b>Harvard-Oxford Cortical Structural Atlas</b><br>45% Paracingulate Gyrus, 24% Superior Frontal Gyrus
+11,-39,50 <b>Harvard-Oxford Cortical Structural Atlas</b><br>32% Precuneous Cortex, 27% Postcentral Gyrus, 10% Cingulate Gyrus, posterior division, 3% Precentral Gyrus
+55,-45,37 <b>Harvard-Oxford Cortical Structural Atlas</b><br>38% Supramarginal Gyrus, posterior division, 33% Angular Gyrus
+42,0,47 <b>Harvard-Oxford Cortical Structural Atlas</b><br>36% Precentral Gyrus, 19% Middle Frontal Gyrus
+31,33,26 <b>Harvard-Oxford Cortical Structural Atlas</b><br>25% Middle Frontal Gyrus, 6% Frontal Pole
+48,22,10 <b>Harvard-Oxford Cortical Structural Atlas</b><br>27% Inferior Frontal Gyrus, pars triangularis, 25% Inferior Frontal Gyrus, pars opercularis, 3% Frontal Operculum Cortex, 2% Precentral Gyrus
+-35,20,0 <b>Harvard-Oxford Cortical Structural Atlas</b><br>54% Insular Cortex, 4% Frontal Operculum Cortex, 2% Frontal Orbital Cortex
+36,22,3 <b>Harvard-Oxford Cortical Structural Atlas</b><br>39% Insular Cortex, 19% Frontal Operculum Cortex, 7% Frontal Orbital Cortex
+37,32,-2 <b>Harvard-Oxford Cortical Structural Atlas</b><br>15% Frontal Orbital Cortex, 13% Inferior Frontal Gyrus, pars triangularis, 3% Frontal Pole, 2% Frontal Operculum Cortex
+34,16,-8 <b>Harvard-Oxford Cortical Structural Atlas</b><br>68% Insular Cortex, 1% Frontal Orbital Cortex
+-11,26,25 <b>Harvard-Oxford Cortical Structural Atlas</b><br>41% Cingulate Gyrus, anterior division, 12% Paracingulate Gyrus
+-1,15,44 <b>Harvard-Oxford Cortical Structural Atlas</b><br>50% Paracingulate Gyrus, 9% Cingulate Gyrus, anterior division, 3% Juxtapositional Lobule Cortex (formerly Supplementary Motor Cortex)
+-28,52,21 <b>Harvard-Oxford Cortical Structural Atlas</b><br>81% Frontal Pole
+0,30,27 <b>Harvard-Oxford Cortical Structural Atlas</b><br>57% Cingulate Gyrus, anterior division, 23% Paracingulate Gyrus
+5,23,37 <b>Harvard-Oxford Cortical Structural Atlas</b><br>47% Paracingulate Gyrus, 36% Cingulate Gyrus, anterior division
+10,22,27 <b>Harvard-Oxford Cortical Structural Atlas</b><br>29% Cingulate Gyrus, anterior division, 2% Paracingulate Gyrus
+31,56,14 <b>Harvard-Oxford Cortical Structural Atlas</b><br>86% Frontal Pole
+26,50,27 <b>Harvard-Oxford Cortical Structural Atlas</b><br>73% Frontal Pole
+-39,51,17 <b>Harvard-Oxford Cortical Structural Atlas</b><br>86% Frontal Pole
+2,-24,30 <b>Harvard-Oxford Cortical Structural Atlas</b><br>86% Cingulate Gyrus, posterior division, 6% Cingulate Gyrus, anterior division
+6,-24,0 <b>Harvard-Oxford Cortical Structural Atlas</b><br>No label found!
+-2,-13,12 <b>Harvard-Oxford Cortical Structural Atlas</b><br>No label found!
+-10,-18,7 <b>Harvard-Oxford Cortical Structural Atlas</b><br>No label found!
+12,-17,8 <b>Harvard-Oxford Cortical Structural Atlas</b><br>No label found!
+-5,-28,-4 <b>Harvard-Oxford Cortical Structural Atlas</b><br>No label found!
+-22,7,-5 <b>Harvard-Oxford Cortical Structural Atlas</b><br>No label found!
+-15,4,8 <b>Harvard-Oxford Cortical Structural Atlas</b><br>No label found!
+31,-14,2 <b>Harvard-Oxford Cortical Structural Atlas</b><br>No label found!
+23,10,1 <b>Harvard-Oxford Cortical Structural Atlas</b><br>No label found!
+29,1,4 <b>Harvard-Oxford Cortical Structural Atlas</b><br>No label found!
+-31,-11,0 <b>Harvard-Oxford Cortical Structural Atlas</b><br>No label found!
+15,5,7 <b>Harvard-Oxford Cortical Structural Atlas</b><br>No label found!
+9,-4,6 <b>Harvard-Oxford Cortical Structural Atlas</b><br>No label found!
+54,-43,22 <b>Harvard-Oxford Cortical Structural Atlas</b><br>28% Angular Gyrus, 28% Supramarginal Gyrus, posterior division
+-56,-50,10 <b>Harvard-Oxford Cortical Structural Atlas</b><br>26% Middle Temporal Gyrus, temporooccipital part, 24% Supramarginal Gyrus, posterior division, 22% Angular Gyrus, 3% Superior Temporal Gyrus, posterior division
+-55,-40,14 <b>Harvard-Oxford Cortical Structural Atlas</b><br>26% Planum Temporale, 15% Supramarginal Gyrus, posterior division, 11% Superior Temporal Gyrus, posterior division
+52,-33,8 <b>Harvard-Oxford Cortical Structural Atlas</b><br>33% Superior Temporal Gyrus, posterior division, 12% Supramarginal Gyrus, posterior division, 3% Middle Temporal Gyrus, posterior division, 2% Middle Temporal Gyrus, temporooccipital part, 1% Planum Temporale, 1% Angular Gyrus
+51,-29,-4 <b>Harvard-Oxford Cortical Structural Atlas</b><br>56% Middle Temporal Gyrus, posterior division, 23% Superior Temporal Gyrus, posterior division, 3% Supramarginal Gyrus, posterior division, 1% Middle Temporal Gyrus, temporooccipital part
+56,-46,11 <b>Harvard-Oxford Cortical Structural Atlas</b><br>38% Middle Temporal Gyrus, temporooccipital part, 25% Angular Gyrus, 13% Supramarginal Gyrus, posterior division
+53,33,1 <b>Harvard-Oxford Cortical Structural Atlas</b><br>55% Inferior Frontal Gyrus, pars triangularis, 22% Frontal Pole, 3% Frontal Orbital Cortex
+-49,25,-1 <b>Harvard-Oxford Cortical Structural Atlas</b><br>36% Frontal Operculum Cortex, 23% Inferior Frontal Gyrus, pars triangularis, 12% Frontal Orbital Cortex, 3% Inferior Frontal Gyrus, pars opercularis
+-16,-65,-20 <b>Harvard-Oxford Cortical Structural Atlas</b><br>No label found!
+-32,-55,-25 <b>Harvard-Oxford Cortical Structural Atlas</b><br>No label found!
+22,-58,-23 <b>Harvard-Oxford Cortical Structural Atlas</b><br>No label found!
+1,-62,-18 <b>Harvard-Oxford Cortical Structural Atlas</b><br>No label found!
+33,-12,-34 <b>Harvard-Oxford Cortical Structural Atlas</b><br>40% Temporal Fusiform Cortex, posterior division, 23% Parahippocampal Gyrus, anterior division, 17% Temporal Fusiform Cortex, anterior division
+-31,-10,-36 <b>Harvard-Oxford Cortical Structural Atlas</b><br>32% Temporal Fusiform Cortex, anterior division, 29% Parahippocampal Gyrus, anterior division, 25% Temporal Fusiform Cortex, posterior division
+49,-3,-38 <b>Harvard-Oxford Cortical Structural Atlas</b><br>49% Inferior Temporal Gyrus, anterior division, 14% Inferior Temporal Gyrus, posterior division, 9% Middle Temporal Gyrus, anterior division, 3% Middle Temporal Gyrus, posterior division
+-50,-7,-39 <b>Harvard-Oxford Cortical Structural Atlas</b><br>57% Inferior Temporal Gyrus, anterior division, 24% Inferior Temporal Gyrus, posterior division, 2% Temporal Fusiform Cortex, posterior division, 1% Middle Temporal Gyrus, posterior division
+10,-62,61 <b>Harvard-Oxford Cortical Structural Atlas</b><br>34% Lateral Occipital Cortex, superior division, 28% Precuneous Cortex, 5% Superior Parietal Lobule
+-52,-63,5 <b>Harvard-Oxford Cortical Structural Atlas</b><br>41% Lateral Occipital Cortex, inferior division, 21% Middle Temporal Gyrus, temporooccipital part
+-47,-51,-21 <b>Harvard-Oxford Cortical Structural Atlas</b><br>47% Inferior Temporal Gyrus, temporooccipital part, 32% Temporal Occipital Fusiform Cortex, 3% Temporal Fusiform Cortex, posterior division, 3% Inferior Temporal Gyrus, posterior division
+46,-47,-17 <b>Harvard-Oxford Cortical Structural Atlas</b><br>48% Temporal Occipital Fusiform Cortex, 32% Inferior Temporal Gyrus, temporooccipital part
+47,-30,49 <b>Harvard-Oxford Cortical Structural Atlas</b><br>35% Postcentral Gyrus, 33% Supramarginal Gyrus, anterior division, 4% Supramarginal Gyrus, posterior division
+22,-65,48 <b>Harvard-Oxford Cortical Structural Atlas</b><br>40% Lateral Occipital Cortex, superior division, 2% Precuneous Cortex, 1% Cuneal Cortex
+46,-59,4 <b>Harvard-Oxford Cortical Structural Atlas</b><br>30% Middle Temporal Gyrus, temporooccipital part, 28% Lateral Occipital Cortex, inferior division, 1% Inferior Temporal Gyrus, temporooccipital part
+25,-58,60 <b>Harvard-Oxford Cortical Structural Atlas</b><br>31% Lateral Occipital Cortex, superior division, 19% Superior Parietal Lobule, 1% Angular Gyrus
+-33,-46,47 <b>Harvard-Oxford Cortical Structural Atlas</b><br>39% Superior Parietal Lobule, 10% Supramarginal Gyrus, posterior division, 4% Angular Gyrus, 3% Supramarginal Gyrus, anterior division, 2% Postcentral Gyrus
+-27,-71,37 <b>Harvard-Oxford Cortical Structural Atlas</b><br>70% Lateral Occipital Cortex, superior division
+-32,-1,54 <b>Harvard-Oxford Cortical Structural Atlas</b><br>37% Middle Frontal Gyrus, 12% Precentral Gyrus, 3% Superior Frontal Gyrus
+-42,-60,-9 <b>Harvard-Oxford Cortical Structural Atlas</b><br>26% Inferior Temporal Gyrus, temporooccipital part, 22% Temporal Occipital Fusiform Cortex, 10% Occipital Fusiform Gyrus, 9% Lateral Occipital Cortex, inferior division
+-17,-59,64 <b>Harvard-Oxford Cortical Structural Atlas</b><br>41% Lateral Occipital Cortex, superior division, 24% Superior Parietal Lobule
+29,-5,54 <b>Harvard-Oxford Cortical Structural Atlas</b><br>28% Precentral Gyrus, 17% Middle Frontal Gyrus, 15% Superior Frontal Gyrus

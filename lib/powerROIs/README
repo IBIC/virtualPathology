@@ -1,0 +1,5 @@
+This directory contains the masks of the ROIs referred to in Power et. al, Functional Network Organization of the Human Brain, Vol 72 Issue 4 17 Nov 2011 Neuron, pp 665-678. These are in MNI space.
+Header:
+
+ROI#	X	Y	Z
+http://dx.doi.org/10.1016/j.neuron.2011.09.006
