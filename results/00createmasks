@@ -1,0 +1,53 @@
+#!/bin/bash
+# This script creates the maps 
+TOP=/mnt/adrc/adrc-neuropath
+ROIS=$TOP/lib/powerROIs
+
+
+# Create the masks that represent a "heat map" of the areas where subjects
+# had a greater difference between the FC of their gold standard region to
+# the mean than would be expected by chance, given a distribution of
+# differences in FC obtained by comparing the sampled and gold standard
+# ROIs
+
+for i in V1
+do
+    for cond in "pos" "neg"
+    do
+	# set name of output file
+	output=${i}_gold${cond}.nii.gz
+	# create a scratch directory
+	scratchdir=$(mktemp -d)
+	# for each line of the input text file, multiply sphere by weight
+	while read -r line
+	do
+	    f=$(echo $line| awk '{print $1}') #file
+	    w=$(echo $line| awk '{print $2}') #weight
+	    # use fslmaths to multiply sphere by weight, save in scratch
+	    fslmaths ${ROIS}/${f} -mul ${w} ${scratchdir}/${f}
+	done < ${i}_gold${cond}.txt
+	# merge all these weighted spheres 
+	fslmerge -t ${scratchdir}/all.nii.gz ${scratchdir}/*sphereroi.nii.gz
+	fslmaths ${scratchdir}/all.nii.gz -Tmax $output
+	rm -rf ${scratchdir}
+    done
+done
+
+
+
+# Create the masks that represent functional connectivity from the ROI
+# that is greater or less than what is expected by chance if there were indeed
+# no difference between the sample and the gold standard. The significantly
+# different ROIs are saved in files *_negsigdiff.txt and *possigdiff.txt 
+cd $ROIS
+for i in IPL MFG V1
+do
+#fslmerge -t $TOP/results/${i}_neg.merged.nii.gz `cat $TOP/results/${i}_negsigdiff.txt`
+#fslmaths $TOP/results/${i}_neg.merged.nii.gz -Tmean $TOP/results/${i}_neg.merged.nii.gz
+
+#fslmerge -t $TOP/results/${i}_pos.merged.nii.gz `cat $TOP/results/${i}_possigdiff.txt`
+#fslmaths $TOP/results/${i}_pos.merged.nii.gz -Tmean $TOP/results/${i}_pos.merged.nii.gz 
+done
+
+
+
