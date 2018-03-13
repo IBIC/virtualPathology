@@ -1,0 +1,19 @@
+#!/bin/bash
+# Gather the x,y,z angles from translation matrices (gold standard to subject)
+# for all subjects
+#
+# run from the top level directory
+TOP=/mnt/adrc/adrc-neuropath
+cd ${TOP}
+echo "subject roi x.degrees y.degrees z.degrees"
+# loop through subjects, rois
+for subject in 1????? 4?????
+do
+    for roi in MSTG V1 IPL MFG
+    do
+	echo -n ${subject} ${roi} " "
+	avscale --allparams ${TOP}/${subject}/registered/${roi}_toref.mat |grep "Rotation Angles" | awk '{print $6*180/3.1415, $7*180/3.1415, $8*180/3.1415}'
+    done
+done
+
+  
