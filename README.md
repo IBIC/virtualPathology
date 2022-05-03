@@ -1,2 +1,2 @@
-# adrc-neuropath
-Pipeline for Caitlin's neuropatholog/imaging project
+# virtualPathology
+Pipeline for neuropathology/imaging project
